@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
 
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
 body {
     --first_size: 40px;
     --second_size: 15px;
@@ -14,10 +20,9 @@ body {
 .wrap {
     height: 140px;
     width: 822px;
-    position: relative;
-    margin-top: 5%;
-    left: 50%;
-    transform: translateX(-50%);
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .wrap::before {
