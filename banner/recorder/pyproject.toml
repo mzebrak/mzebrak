@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "recorder"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12"
+python-ffmpeg = "^2.0.12"
+xvfbwrapper = "^0.2.20"
+playwright = "^1.58.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
