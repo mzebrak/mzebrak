@@ -9,7 +9,7 @@
 
 ```python
 class SoftwareDeveloper:
-    def __init__(self):
+    def __init__(self) -> None:
         self.name = 'Mateusz Żebrak'
         self.languages = ['pl_PL', 'en_US']
         self.degree = 'Bachelor of Engineering in Computer Science'
@@ -17,7 +17,7 @@ class SoftwareDeveloper:
         self.interests = ['blockchain', 'electronics', 'snowboard', 'automotive']
         self.strengths = ['creativity', 'perseverance', 'meticulousness']
 
-    def __str__(self):
+    def __str__(self) -> str:
         return f'{self.name}: {self.degree}, spec. {self.specialization}, {self.languages}'
 
     @staticmethod
