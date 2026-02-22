@@ -32,8 +32,8 @@ if __name__ == '__main__':
 
 ```
 
-- 🔭 I’m currently working on _**[hive](https://github.com/openhive-network) development**_, _**bsc thesis**_.
-- 🌱 I’m currently learning _**Python & Angular development**_, _**clean code practices**_, _**TDD**_.
+- 🔭 I’m currently working on _**[hive](https://github.com/openhive-network) development**_.
+- 🌱 I’m currently exploring _**AI/LLM tooling**_.
 
 <br />
 
