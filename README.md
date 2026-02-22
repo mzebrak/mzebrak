@@ -12,7 +12,7 @@ class SoftwareDeveloper:
     def __init__(self) -> None:
         self.name = 'Mateusz Żebrak'
         self.languages = ['pl_PL', 'en_US']
-        self.degree = 'Bachelor of Engineering in Computer Science'
+        self.degree = 'Master of Engineering in Computer Science'
         self.specialization = 'Software engineering'
         self.interests = ['blockchain', 'electronics', 'snowboard', 'automotive']
         self.strengths = ['creativity', 'perseverance', 'meticulousness']
