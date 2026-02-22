@@ -56,9 +56,7 @@ RECORD_PADDING = 2.0  # extra seconds after animation to ensure full capture
 
 RECORDER_DIR = Path(__file__).parent
 BANNER_DIR = RECORDER_DIR.parent
-REPO_ROOT = BANNER_DIR.parent
-# Legacy filename referenced by README.md (does not reflect actual FPS/quality).
-OUTPUT_GIF = REPO_ROOT / "welcome_60fps_100.gif"
+OUTPUT_GIF = BANNER_DIR / "welcome.gif"
 RAW_VIDEO = RECORDER_DIR / "raw_capture.mp4"
 FRAMES_DIR = RECORDER_DIR / "frames_tmp"
 HTML_FILE = BANNER_DIR / "index.html"
