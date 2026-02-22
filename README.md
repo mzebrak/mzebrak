@@ -14,7 +14,7 @@ class SoftwareDeveloper:
         self.languages = ['pl_PL', 'en_US']
         self.degree = 'Master of Engineering in Computer Science'
         self.specialization = 'Software engineering'
-        self.interests = ['blockchain', 'electronics', 'snowboard', 'automotive']
+        self.interests = ['blockchain', 'clean code', 'travel', 'electronics']
         self.strengths = ['creativity', 'perseverance', 'meticulousness']
 
     def __str__(self) -> str:
