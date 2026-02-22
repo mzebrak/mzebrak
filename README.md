@@ -105,8 +105,8 @@ if __name__ == '__main__':
 
 <p>
   <a href="https://github.com/m-zebrak/m-zebrak">
-    <img align="center" src="https://raw.githubusercontent.com/m-zebrak/github-stats-transparent/output/generated/overview.svg" alt="m-zebrak github stats" /> 
-    <img align="right" src="https://raw.githubusercontent.com/m-zebrak/github-stats-transparent/output/generated/languages.svg" alt="languages"/>
+    <img align="center" src="https://raw.githubusercontent.com/mzebrak/github-stats-transparent/output/generated/overview.svg" alt="m-zebrak github stats" /> 
+    <img align="right" src="https://raw.githubusercontent.com/mzebrak/github-stats-transparent/output/generated/languages.svg" alt="languages"/>
   </a> 
 </p>
 
